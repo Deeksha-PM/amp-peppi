@@ -25,7 +25,7 @@ st.write(
     "Upon visiting the AMP-PepPI homepage, users can initiate the prediction process by clicking "
     "the “Prediction” button on the left side, as shown in Figure 1."
 )
-#st.image(caption="Figure 1: Homepage of AMP-PepPI.", image=TUTORIAL_IMAGES/"fig1_homepage.png",width=500)
+st.image(caption="Figure 1: Homepage of AMP-PepPI.", image=TUTORIAL_IMAGES/"fig1_homepage.png",width=500)
 
 st.subheader("Providing Input Sequences")
 st.write("Users can input AMP and protein sequences in two ways:")
