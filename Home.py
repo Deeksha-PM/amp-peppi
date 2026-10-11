@@ -7,7 +7,7 @@ with col1:
     st.image("static/images/icarlogo.png", width=150)
 
 with col2:
-    st.markdown("<h1 style='text-align:center;'> AMP-PepPI: A Machine-Learning based Tool for Predicting Interactions between Antimicrobial Peptides and Target Proteins</h1>", unsafe_allow_html=True)
+    st.markdown("<h2 style='text-align:center;'> AMP-PepPI: Antimicrobial Peptide-Protien Interaction tool</h2>", unsafe_allow_html=True)
 
 
 
