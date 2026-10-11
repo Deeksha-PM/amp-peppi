@@ -12,7 +12,7 @@ with col1:
     st.image(str(STATIC_DIR / "images" / "icarlogo.png"), width=150)
 
 with col2:
-    st.markdown("<h2 style='text-align:center;'> AMP-PepPI: Antimicrobial Peptide-Protien Interaction tool</h2>", unsafe_allow_html=True)
+    st.markdown("<h2 style='text-align:center;'> AMP-PepPI: Antimicrobial Peptide-Protein Interaction tool</h2>", unsafe_allow_html=True)
 st.markdown("---")
 
 st.header("Tutorial on AMP-PepPI")
