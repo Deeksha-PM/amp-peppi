@@ -15,7 +15,7 @@ with col2:
     st.markdown("<h2 style='text-align:center;'> AMP-PepPI: Antimicrobial Peptide-Protien Interaction tool</h2>", unsafe_allow_html=True)
 st.markdown("---")
 
-st.title("Tutorial on AMP-PepPI")
+st.header("Tutorial on AMP-PepPI")
 
 st.write(
     "This tutorial provides a step-by-step guide on predicting peptide-protein interactions (PPI) "
